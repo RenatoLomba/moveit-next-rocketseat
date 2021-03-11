@@ -6,4 +6,4 @@
   física em dia.
 </p>
 
-Rode-o em <a href="moveit-next-rocketseat.vercel.app/">MoveIt</a>
+Rode-o em <a href="https://moveit-next-rocketseat.vercel.app/">MoveIt</a>
